@@ -1,0 +1,11 @@
+.App {
+  border: 5px solid black;
+  font-family: sans-serif;
+  text-align: center;
+}
+.pokemon-image {
+  width: 700px;
+}
+h1 {
+  color: blue;
+}
